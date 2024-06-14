@@ -25,7 +25,7 @@ End result should resemble: `console.log(plus15(10)) // Outputs 25`
 
 ### Exercise 2: forEach
 
-Use the Array `forEach` method to print the _names_ of each user within the list. Start with the following code:
+Use the Array  Start with the following code:
 
 ```js
 let users = [
